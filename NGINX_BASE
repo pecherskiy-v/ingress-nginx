@@ -1,1 +1,1 @@
-registry.k8s.io/ingress-nginx/nginx:v20230623-427f3d2fb@sha256:7b479f66872c0b1cb0f1315e305b8a3e9c6da846c7dd3855db99bc8cfd6791e1
+docker.io/pecherskiy/nginx-jwt:v20230728-afd1311f8@sha256:df2eff5ddb0c416c898e006f17db49433c95d83496d920c299a2bbff5674ea2b
